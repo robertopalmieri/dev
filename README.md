@@ -1,1 +1,1 @@
-Repository for Data Structures developments
+Repository for Data Structures development
